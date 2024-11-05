@@ -7,4 +7,4 @@ const jump = () =>{
 
 
 
-document.addEventListener("keydown", jump)
+document.addEventListener('keydown', jump)
